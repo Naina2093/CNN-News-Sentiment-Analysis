@@ -1,4 +1,6 @@
 # CNN Website posts: A Sentiment Analysis 
+![download](https://github.com/Naina2093/CNN-News-Sentiment-Analysis/assets/157861184/8931fd6c-5c3a-4644-9cfe-b474c8817bf6)
+
 
 Our project utilizes Facebook data from 'data.world' to conduct sentiment and demographic analyses, enriched with contributions from Cable Network News (CNN) channel's news outlet. Through machine learning techniques, we aim to provide an interactive platform for tailored insights. Our user-friendly interface simplifies sentiment analysis, antagonist identification, and engagement metrics comprehension. By deciphering demographic characteristics' impact on sentiment, we offer nuanced insights for News curators, Social media analysts and marketers. This initiative democratizes data analysis, offering instantaneous insights into public sentiment and informing strategic business decisions.
 
@@ -45,4 +47,26 @@ By integrating these AI models, we aim to achieve a nuanced analysis of sentimen
 ### EDA 
 
 
+**Overview**
+
+
+<img width="365" alt="1" src="https://github.com/Naina2093/CNN-News-Sentiment-Analysis/assets/157861184/3e45388b-e6bd-4696-8f92-369786f296ef">
+
+
+**Deeper Analysis**
+
+
+<img width="354" alt="2" src="https://github.com/Naina2093/CNN-News-Sentiment-Analysis/assets/157861184/892ecb86-514c-4e8e-a13d-11642aa25a8c">
+
+
+**Words and Sentiments Revealed**
+
+
+<img width="356" alt="3" src="https://github.com/Naina2093/CNN-News-Sentiment-Analysis/assets/157861184/11c7ca4f-b165-4655-b1ad-2fa928ae91c2">
+
+
+**Sentiment Analysis of CNN Headlines**
+
+
+<img width="355" alt="4" src="https://github.com/Naina2093/CNN-News-Sentiment-Analysis/assets/157861184/2b400d51-e62a-4dfc-8bc8-3de6c7304284">
 
