@@ -70,3 +70,6 @@ By integrating these AI models, we aim to achieve a nuanced analysis of sentimen
 
 <img width="355" alt="4" src="https://github.com/Naina2093/CNN-News-Sentiment-Analysis/assets/157861184/2b400d51-e62a-4dfc-8bc8-3de6c7304284">
 
+## Project Deliverables:
+
+https://github.com/Swathi-Nadimpilli/Sentiment-Analysis
